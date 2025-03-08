@@ -11,3 +11,10 @@ Este proyecto es una aplicación web que permite gestionar un sorteo de "Amigo S
 ### 🛠️ **Tecnologías utilizadas**
 
 - **HTML**, **CSS** y **JavaScript** para la interfaz y lógica del sorteo.
+
+## 📷 Capturas de pantalla
+
+Aquí se muestran algunas capturas del proyecto en funcionamiento:
+
+![Validación de datos](img/pantalla-principal.png)
+![Sorteo realizado](img/sorteo-realizado.png)
